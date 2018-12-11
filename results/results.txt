@@ -1,0 +1,29 @@
+For MFCC with energy coefficient:
+ Accuracy rate for test vectors with n-components:2 are: 0.12951335075056458
+ Accuracy rate for test vectors with n-components:4 are: 0.14334676526590798
+ Accuracy rate for test vectors with n-components:8 are: 0.14762431917814284
+ Accuracy rate for test vectors with n-components:16 are: 0.15154098215471815
+ Accuracy rate for test vectors with n-components:32 are: 0.15050259044413938
+ Accuracy rate for test vectors with n-components:64 are: 0.1423283000487092
+ Accuracy rate for test vectors with n-components:128 are: 0.13994376300757208
+ Accuracy rate for test vectors with n-components:256 are: 0.13527432139219767
+For MFCC without energy coefficient:
+ Accuracy rate for test vectors with n-components:2 are: 0.1107470220962671
+ Accuracy rate for test vectors with n-components:4 are: 0.1390824956825931
+ Accuracy rate for test vectors with n-components:8 are: 0.13303812602400036
+ Accuracy rate for test vectors with n-components:16 are: 0.13962493911349244
+ Accuracy rate for test vectors with n-components:32 are: 0.13829429216667405
+ Accuracy rate for test vectors with n-components:64 are: 0.1331643271487402
+ Accuracy rate for test vectors with n-components:128 are: 0.1254239914980295
+ Accuracy rate for test vectors with n-components:256 are: 0.12216047469335341
+
+
+For MFCC_delta with energy coefficient:
+ Accuracy rate for test vectors with n-components:64 is: 0.18896515077713325
+For MFCC_delta without energy coefficient:
+ Accuracy rate for test vectors with n-components:64 is: 0.09300580082362839
+
+For MFCC_delta_delta with energy coefficient:
+ Accuracy rate for test vectors with n-components:64 is: 0.19360802373466768
+For MFCC_delta_delta without energy coefficient:
+ Accuracy rate for test vectors with n-components:64 is: 0.06504228844706195
